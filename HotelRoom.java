@@ -31,7 +31,7 @@ public class HotelRoom {
         }
     }
 
-    public static class PaymentProcessingModule {
+    public static class PaymentProcessingModule {//All done wait and pray
         public static void processPayment(int customerId, double amount) {
             // Placeholder implementation for processing payment
             System.out.println("Processing payment for customer ID: " + customerId
