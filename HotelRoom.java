@@ -40,7 +40,7 @@ public class HotelRoom {
     }
 
     public static class DatabaseModule {
-        public static void manageRoomAvailability() {
+        public static void manageRoomAvailability() {//poko
             // Placeholder implementation for managing room availability in the database
             System.out.println("Managing room availability in the database");
         }
