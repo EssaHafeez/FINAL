@@ -2,7 +2,7 @@ public class HotelRoom {
 
     public static class SearchModule {
         public static void searchHotels(String location, String date, String preferences) {
-            // Placeholder implementation for searching hotels
+            // Placeholder implementation for searching hotels hello
             System.out.println("Searching hotels for location: " + location
                     + ", date: " + date + ", preferences: " + preferences);
         }
